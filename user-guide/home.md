@@ -15,6 +15,7 @@ Task-oriented walkthroughs for staff using the Hospital Management System (HMS) 
 ## Contents
 
 - [Getting Started](/user-guide/getting-started) — end-to-end tour of the system: logging in, the hospital website, patient registration, appointments, EMR, lab, pharmacy, billing, inpatient care, insurance, and the patient portal.
+- [Demo Users](/user-guide/demo-users) — ready-to-use logins for the Doctor, Nurse, Manager, and Patient Portal roles.
 
 ## See also
 

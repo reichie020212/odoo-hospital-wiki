@@ -19,6 +19,7 @@ Source code: [reichie020212/odoo-hospital](https://github.com/reichie020212/odoo
 ## User guide
 
 - [Getting Started](/user-guide/getting-started) — end-to-end tour of the system, from logging in to billing and the patient portal.
+- [Demo Users](/user-guide/demo-users) — ready-to-use logins for the Doctor, Nurse, Manager, and Patient Portal roles.
 
 ## Developer reference
 
