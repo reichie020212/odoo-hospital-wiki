@@ -1,8 +1,8 @@
 ---
 title: Hospital Management System
-description: Wiki for the Odoo 19 Hospital Management System (HMS) — user guide and developer reference.
+description: Wiki for the Odoo 19 Hospital Management System (HMS) — user guide, feature overview, and developer reference.
 published: true
-date: 2026-04-26T00:00:00.000Z
+date: 2026-05-05T00:00:00.000Z
 tags: hms, odoo, hospital, home
 editor: markdown
 dateCreated: 2026-04-26T00:00:00.000Z
@@ -10,7 +10,9 @@ dateCreated: 2026-04-26T00:00:00.000Z
 
 # Hospital Management System
 
-Documentation for the Hospital Management System (HMS) — a suite of Odoo 19 Community Edition modules covering patient records, appointments, EMR, lab, pharmacy, billing, and inpatient care.
+A suite of **7 Odoo 19 Community Edition modules** covering the full patient lifecycle: patient & staff records, appointments, EMR consultations, laboratory, pharmacy dispensing, billing with insurance co-pay, inpatient wards & beds, a self-service patient portal, and a public hospital website.
+
+> **New here?** See the [Features →](/features) page for an at-a-glance list of everything the suite does.
 
 Source code: [reichie020212/odoo-hospital](https://github.com/reichie020212/odoo-hospital).
 
@@ -34,5 +36,6 @@ Per-module entity-relationship diagrams (ERDs), relationships, state machines, a
 
 ## How this wiki is organized
 
-- **`/user-guide/`** — task-oriented walkthroughs for staff using the system.
-- **`/developer/`** — schema, relationships, and module internals for engineers extending the codebase.
+- **[`/features`](/features)** — at-a-glance list of every capability (and current limitations).
+- **[`/user-guide/`](/user-guide/home)** — task-oriented walkthroughs for staff using the system.
+- **[`/developer/`](/developer/erd/home)** — schema, relationships, and module internals for engineers extending the codebase.
