@@ -18,6 +18,7 @@ The HMS suite ships with demo accounts so you can explore each role immediately 
 
 | Role | Login | Password | What you can do |
 |:-----|:------|:---------|:----------------|
+| Admin | `hms_admin` | `hms_admin` | System administrator — full Odoo access including Settings, Users & Companies, technical menus, and every Hospital record. |
 | Doctor | `hms_doctor` | `hms_doctor` | Run consultations, record vitals & prescriptions, request lab tests, dispense medicines, create invoice drafts. |
 | Nurse | `hms_nurse` | `hms_nurse` | Check patients in, capture vitals, manage appointments and ward activity. |
 | Manager | `hms_manager` | `hms_manager` | Full Hospital access: configuration (specializations, appointment types, lab tests, wards, beds, medicines), insurance policies, and all clinical/billing records. |
